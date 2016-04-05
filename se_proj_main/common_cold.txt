@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="homepage2.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+	
+
+	<ul>
+		<li><a href="#"><span class="glyphicon glyphicon-print"</span></a></li>
+		<li><a href="jstry.html">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<ul style="float:right;list-style-type:none;">
+			<li><a class="active" href="#about">About</a></li>
+			<li><a href="login_main.html">Login</a></li>
+		</ul>
+	</ul>
+	<br><br>
+	<div class="typhi">
+	<h1 style="font-size:240%;">Viral Fever</h1>
+	<a href="url">What causes it?</a><br>
+	<a href="url">How can i avoid getting it?</a><br>
+	<a href="url">Diagnosis</a><br>
+	<a href="url">Treatment</a><br>
+	<a href="url">Symptoms</a><br>
+	<a href="url">Prognosis</a><br>	
+	
+	<h2>What causes it?</h2><br>
+	<p1>Viral fever, as the name suggests, is a condition that is transmitted from one person to another through direct contact with the person’s bodily fluids. This is much simpler than you think. Here are some common causes of fever you didn’t know about.
+When a person coughs, sneezes, yawns or even talks they tend to spray tiny particles of fluid that contain bacteria and viruses from their body. If you are close enough, these bacteria enter your body through your nose or mouth and infect you. Once infected it takes anywhere from 16 hours to 48 hours to turn into a full blown infection</p1>
+	<h2>How can I void getting it?</h2>
+	<p>While this doesn’t mean that we all need to become hypochondriacs, it does mean that we should be careful with our personal hygiene. Some common steps to keep diseases like this at bay would be to -
+Wash your hands regularly
+Avoid crowded places
+Avoid touching your face (mouth and nose) with your hands without washing them.
+Another thing to remember is that if you do have cold, viral fever or cough, avoid crowded areas, always cover your mouth with a clean hanky while coughing, sneezing or yawning.
+This not only minimises the number of bacteria/viruses you transmit it also ensures that you don’t catch any other disease when you are already ill.</p>
+
+
+	<h2>Diagnosis</h2>
+	<p>Your doctor will most likely listen to the symptoms you have, and come to a conclusion about your illness. But in some cases doctor may tend to prescribe blood tests to rule out any other conditions like dengue, malaria, chikungunya, typhoid, etc.
+	A blood test may also be indicated in cases where your doctor needs to differentiate between the causative organisms. That means he/she wants to know if your fever is caused due a bacteria or virus. Since a virus cannot be detected by a blood test and a bacterium can, the test is mainly to rule out bacterial infection.</p>
+	
+	<h2>Symptoms</h2>
+	<p>Since the symptoms of viral fever often overlap other common and serious conditions it is pertinent to know about the symptoms that can help you differentiate between a viral fever and other diseases. The red flags you need to keep an eye out for are – very high fever that is either of the following:
+     <br>
+     Intermittent in nature (occurs at regular intervals)<br>
+     Occurs along with chills<br>
+     Doesn’t subside with medicines<br>
+     Has been present for a long time<br>
+Other symptoms are severe pain around the joints, vomiting, swelling of the face and a rash. If you experience any of these symptoms make it a point to visit your doctor immediately.</p>
+
+	<h2>Prognosis</h2>
+	<p>No, once a person is infected by a virus, he/she cannot be infected by the same virus again because the body makes antibodies (infection fighters) for that specific virus. These antibodies fight the virus before it has a chance to infect you once again. If you suffer from recurrent viral fever it is likely that you have been infected by different types of viruses at different stages.
+Finally, remember that you should not ignore a fever, do not self-medicate and visit a doctor at once if you notice symptoms like high fever with chills, one that won’t subside with medication, one that lasts for a long time and one that is intermittent in nature.</p>	
+	
+	</div>
+	<div class="typhi2">
+	<img src="typhoid2.jpg" style="padding-left:10px;float:left;padding-right:10px;margin-bottom:300px;margin-top:100px;">
+	<img src="typhoid1.jpg" style="padding-left:10px;float:left;padding-right:10px;">
+	
+	</div>

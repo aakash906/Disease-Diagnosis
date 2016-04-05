@@ -1,0 +1,156 @@
+html{
+	position:relative;
+	min-height:100%;
+}
+div.figure {
+  float: left;
+  padding: 30px 40px 70px 290px;
+  border: thin silver solid;
+  margin: 30px 40px 70px 290px;
+  padding-left: 10px;
+  padding-right:10px;
+}
+div.figure p {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+div.figure2 {
+  float: left;
+ 
+  border: thin silver solid;
+  margin: 0px 40px 30px 190px;
+  padding-left: 10px;
+  padding-right:10px;
+}
+div.figure2 p {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+img.scaled {
+  width: 50%;
+}
+
+body{
+	
+	background-image: url("whitebg.jpg");
+	background-position:left top;
+	background-repeat:no-repeat;
+	background-size:1360px 1275px;
+	margin-bottom: 60px;
+}	
+ul {
+   		 list-style-type: none;
+   	 	margin: 0;
+  	   	padding: 0;
+ 	   overflow: hidden;
+ 	   background-color: #333;
+}
+
+li {
+	    float: left;
+}
+
+li a {
+	font-size: 105%;
+    	display: block;
+    	color: white;
+    	text-align: center;
+    	padding: 14px 16px;
+    	text-decoration: none;
+}
+
+	/* Change the link color to #111 (black) on hover */
+	li a:hover {
+   	 background-color: #111;
+	}
+#quote{
+	font-size:140%;
+}
+ 
+#footer{
+	
+	padding:0px 0 0 0;
+	margin:0px 0 0 0;
+	width:1337px;
+	height:0px;
+	position:absolute;
+	bottom:0px;
+	/*border:thin silver solid;*/
+	
+
+}
+div.fcontainer{
+	background-image:url("roundgreen.jpg");
+	/*background-size:1442px 400px;*/
+	background-repeat:no-repeat;
+	background-position:bottom;
+	border:thin silver solid;
+}
+.col{
+	/*float:left;
+	padding: 20px 30px 20px 40px;
+	margin: 10px 30px 30px 20px;*/
+	/*border:thin silver solid;*/
+}
+
+.symptom_list {
+margin:0px 0 0 5px;
+float:center;
+position:relative;
+ border-style: solid;
+    border-width: 1px 1px 1px 1px;
+width:600px;
+height:370px;	
+}
+
+.symptom_container{
+margin:50px 0 0 350px;
+float:center;
+position:relative;
+ border-style: solid;
+    border-width: 2px 4px 2px 4px;
+width:640px;
+height:500px;
+
+}
+.symptom_box1{
+margin: 5px 0 0 35px;
+    border-style:solid;
+    border-width: 1px 1px 1px 1px;
+width:200px;
+height:400px;	
+	
+}
+.symptom_box2{
+position:relative;
+margin: 5px 0 0 35px;
+    border-style:solid;
+    border-width: 1px 1px 1px 1px;
+width:200px;
+height:400px;	
+	
+}
+.disease{
+margin:20px 20px 20px 60px;
+width:640px;
+height:600px;
+
+}
+.typhi{
+float:left;	
+margin:20px 20px 20px 60px;
+width:640px;
+height:1600px;
+
+}
+.typhi2{
+float:right;
+margin:20px 2px 20px 6px;
+width:600px;
+height:600px;
+
+}
